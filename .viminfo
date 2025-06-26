@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1750906903,,"wq!"
 :q!
 |2,0,1750781509,,"q!"
-:wq!
-|2,0,1750781495,,"wq!"
 :qq!
 |2,0,1750774810,,"qq!"
 :q1
@@ -31,40 +31,94 @@
 # Registers:
 
 # File marks:
-'0  3  33  /etc/profile.d/maven.sh
-|4,48,3,33,1750781509,"/etc/profile.d/maven.sh"
-'1  12  21  ~/IGP-May31/Jenkinsfile
-|4,49,12,21,1750778237,"~/IGP-May31/Jenkinsfile"
-'2  13  84  ~/IGP-May31/Jenkinsfile
-|4,50,13,84,1750777702,"~/IGP-May31/Jenkinsfile"
-'3  13  84  ~/IGP-May31/Jenkinsfile
-|4,51,13,84,1750777702,"~/IGP-May31/Jenkinsfile"
-'4  12  23  ~/IGP-May31/Jenkinsfile
-|4,52,12,23,1750775517,"~/IGP-May31/Jenkinsfile"
-'5  12  23  ~/IGP-May31/Jenkinsfile
-|4,53,12,23,1750775517,"~/IGP-May31/Jenkinsfile"
-'6  12  23  ~/IGP-May31/Jenkinsfile
-|4,54,12,23,1750775517,"~/IGP-May31/Jenkinsfile"
-'7  13  84  ~/IGP-May31/Jenkinsfile
-|4,55,13,84,1750775197,"~/IGP-May31/Jenkinsfile"
-'8  13  84  ~/IGP-May31/Jenkinsfile
-|4,56,13,84,1750775197,"~/IGP-May31/Jenkinsfile"
-'9  13  84  ~/IGP-May31/Jenkinsfile
-|4,57,13,84,1750775197,"~/IGP-May31/Jenkinsfile"
+'0  2  57  ~/IGP-May31/dockerfile
+|4,48,2,57,1750906903,"~/IGP-May31/dockerfile"
+'1  1  0  ~/IGP-May31/dockerfile
+|4,49,1,0,1750906212,"~/IGP-May31/dockerfile"
+'2  1  0  ~/IGP-May31/dockerfile
+|4,50,1,0,1750906212,"~/IGP-May31/dockerfile"
+'3  3  33  /etc/profile.d/maven.sh
+|4,51,3,33,1750781509,"/etc/profile.d/maven.sh"
+'4  12  21  ~/IGP-May31/Jenkinsfile
+|4,52,12,21,1750778237,"~/IGP-May31/Jenkinsfile"
+'5  13  84  ~/IGP-May31/Jenkinsfile
+|4,53,13,84,1750777702,"~/IGP-May31/Jenkinsfile"
+'6  13  84  ~/IGP-May31/Jenkinsfile
+|4,54,13,84,1750777702,"~/IGP-May31/Jenkinsfile"
+'7  12  23  ~/IGP-May31/Jenkinsfile
+|4,55,12,23,1750775517,"~/IGP-May31/Jenkinsfile"
+'8  12  23  ~/IGP-May31/Jenkinsfile
+|4,56,12,23,1750775517,"~/IGP-May31/Jenkinsfile"
+'9  12  23  ~/IGP-May31/Jenkinsfile
+|4,57,12,23,1750775517,"~/IGP-May31/Jenkinsfile"
 
 # Jumplist (newest first):
+-'  2  57  ~/IGP-May31/dockerfile
+|4,39,2,57,1750906903,"~/IGP-May31/dockerfile"
+-'  1  0  ~/IGP-May31/dockerfile
+|4,39,1,0,1750906710,"~/IGP-May31/dockerfile"
+-'  1  0  ~/IGP-May31/dockerfile
+|4,39,1,0,1750906212,"~/IGP-May31/dockerfile"
 -'  3  33  /etc/profile.d/maven.sh
 |4,39,3,33,1750781509,"/etc/profile.d/maven.sh"
+-'  3  33  /etc/profile.d/maven.sh
+|4,39,3,33,1750781509,"/etc/profile.d/maven.sh"
+-'  3  33  /etc/profile.d/maven.sh
+|4,39,3,33,1750781509,"/etc/profile.d/maven.sh"
+-'  3  33  /etc/profile.d/maven.sh
+|4,39,3,33,1750781509,"/etc/profile.d/maven.sh"
+-'  1  0  /etc/profile.d/maven.sh
+|4,39,1,0,1750780579,"/etc/profile.d/maven.sh"
+-'  1  0  /etc/profile.d/maven.sh
+|4,39,1,0,1750780579,"/etc/profile.d/maven.sh"
+-'  1  0  /etc/profile.d/maven.sh
+|4,39,1,0,1750780579,"/etc/profile.d/maven.sh"
 -'  1  0  /etc/profile.d/maven.sh
 |4,39,1,0,1750780579,"/etc/profile.d/maven.sh"
 -'  12  21  ~/IGP-May31/Jenkinsfile
 |4,39,12,21,1750778237,"~/IGP-May31/Jenkinsfile"
 -'  12  21  ~/IGP-May31/Jenkinsfile
 |4,39,12,21,1750778237,"~/IGP-May31/Jenkinsfile"
+-'  12  21  ~/IGP-May31/Jenkinsfile
+|4,39,12,21,1750778237,"~/IGP-May31/Jenkinsfile"
+-'  12  21  ~/IGP-May31/Jenkinsfile
+|4,39,12,21,1750778237,"~/IGP-May31/Jenkinsfile"
+-'  12  21  ~/IGP-May31/Jenkinsfile
+|4,39,12,21,1750778237,"~/IGP-May31/Jenkinsfile"
+-'  12  21  ~/IGP-May31/Jenkinsfile
+|4,39,12,21,1750778237,"~/IGP-May31/Jenkinsfile"
+-'  12  21  ~/IGP-May31/Jenkinsfile
+|4,39,12,21,1750778237,"~/IGP-May31/Jenkinsfile"
+-'  12  21  ~/IGP-May31/Jenkinsfile
+|4,39,12,21,1750778237,"~/IGP-May31/Jenkinsfile"
 -'  13  84  ~/IGP-May31/Jenkinsfile
 |4,39,13,84,1750778098,"~/IGP-May31/Jenkinsfile"
 -'  13  84  ~/IGP-May31/Jenkinsfile
 |4,39,13,84,1750778098,"~/IGP-May31/Jenkinsfile"
+-'  13  84  ~/IGP-May31/Jenkinsfile
+|4,39,13,84,1750778098,"~/IGP-May31/Jenkinsfile"
+-'  13  84  ~/IGP-May31/Jenkinsfile
+|4,39,13,84,1750778098,"~/IGP-May31/Jenkinsfile"
+-'  13  84  ~/IGP-May31/Jenkinsfile
+|4,39,13,84,1750778098,"~/IGP-May31/Jenkinsfile"
+-'  13  84  ~/IGP-May31/Jenkinsfile
+|4,39,13,84,1750778098,"~/IGP-May31/Jenkinsfile"
+-'  13  84  ~/IGP-May31/Jenkinsfile
+|4,39,13,84,1750778098,"~/IGP-May31/Jenkinsfile"
+-'  13  84  ~/IGP-May31/Jenkinsfile
+|4,39,13,84,1750778098,"~/IGP-May31/Jenkinsfile"
+-'  13  84  ~/IGP-May31/Jenkinsfile
+|4,39,13,84,1750777702,"~/IGP-May31/Jenkinsfile"
+-'  13  84  ~/IGP-May31/Jenkinsfile
+|4,39,13,84,1750777702,"~/IGP-May31/Jenkinsfile"
+-'  13  84  ~/IGP-May31/Jenkinsfile
+|4,39,13,84,1750777702,"~/IGP-May31/Jenkinsfile"
+-'  13  84  ~/IGP-May31/Jenkinsfile
+|4,39,13,84,1750777702,"~/IGP-May31/Jenkinsfile"
+-'  13  84  ~/IGP-May31/Jenkinsfile
+|4,39,13,84,1750777702,"~/IGP-May31/Jenkinsfile"
+-'  13  84  ~/IGP-May31/Jenkinsfile
+|4,39,13,84,1750777702,"~/IGP-May31/Jenkinsfile"
 -'  13  84  ~/IGP-May31/Jenkinsfile
 |4,39,13,84,1750777702,"~/IGP-May31/Jenkinsfile"
 -'  13  84  ~/IGP-May31/Jenkinsfile
@@ -74,6 +128,30 @@
 -'  12  23  ~/IGP-May31/Jenkinsfile
 |4,39,12,23,1750777459,"~/IGP-May31/Jenkinsfile"
 -'  12  23  ~/IGP-May31/Jenkinsfile
+|4,39,12,23,1750777459,"~/IGP-May31/Jenkinsfile"
+-'  12  23  ~/IGP-May31/Jenkinsfile
+|4,39,12,23,1750777459,"~/IGP-May31/Jenkinsfile"
+-'  12  23  ~/IGP-May31/Jenkinsfile
+|4,39,12,23,1750777459,"~/IGP-May31/Jenkinsfile"
+-'  12  23  ~/IGP-May31/Jenkinsfile
+|4,39,12,23,1750777459,"~/IGP-May31/Jenkinsfile"
+-'  12  23  ~/IGP-May31/Jenkinsfile
+|4,39,12,23,1750777459,"~/IGP-May31/Jenkinsfile"
+-'  12  23  ~/IGP-May31/Jenkinsfile
+|4,39,12,23,1750777459,"~/IGP-May31/Jenkinsfile"
+-'  12  23  ~/IGP-May31/Jenkinsfile
+|4,39,12,23,1750775517,"~/IGP-May31/Jenkinsfile"
+-'  12  23  ~/IGP-May31/Jenkinsfile
+|4,39,12,23,1750775517,"~/IGP-May31/Jenkinsfile"
+-'  12  23  ~/IGP-May31/Jenkinsfile
+|4,39,12,23,1750775517,"~/IGP-May31/Jenkinsfile"
+-'  12  23  ~/IGP-May31/Jenkinsfile
+|4,39,12,23,1750775517,"~/IGP-May31/Jenkinsfile"
+-'  12  23  ~/IGP-May31/Jenkinsfile
+|4,39,12,23,1750775517,"~/IGP-May31/Jenkinsfile"
+-'  12  23  ~/IGP-May31/Jenkinsfile
+|4,39,12,23,1750775517,"~/IGP-May31/Jenkinsfile"
+-'  12  23  ~/IGP-May31/Jenkinsfile
 |4,39,12,23,1750775517,"~/IGP-May31/Jenkinsfile"
 -'  12  23  ~/IGP-May31/Jenkinsfile
 |4,39,12,23,1750775517,"~/IGP-May31/Jenkinsfile"
@@ -81,6 +159,30 @@
 |4,39,13,84,1750775452,"~/IGP-May31/Jenkinsfile"
 -'  13  84  ~/IGP-May31/Jenkinsfile
 |4,39,13,84,1750775452,"~/IGP-May31/Jenkinsfile"
+-'  13  84  ~/IGP-May31/Jenkinsfile
+|4,39,13,84,1750775452,"~/IGP-May31/Jenkinsfile"
+-'  13  84  ~/IGP-May31/Jenkinsfile
+|4,39,13,84,1750775452,"~/IGP-May31/Jenkinsfile"
+-'  13  84  ~/IGP-May31/Jenkinsfile
+|4,39,13,84,1750775452,"~/IGP-May31/Jenkinsfile"
+-'  13  84  ~/IGP-May31/Jenkinsfile
+|4,39,13,84,1750775452,"~/IGP-May31/Jenkinsfile"
+-'  13  84  ~/IGP-May31/Jenkinsfile
+|4,39,13,84,1750775452,"~/IGP-May31/Jenkinsfile"
+-'  13  84  ~/IGP-May31/Jenkinsfile
+|4,39,13,84,1750775452,"~/IGP-May31/Jenkinsfile"
+-'  13  84  ~/IGP-May31/Jenkinsfile
+|4,39,13,84,1750775197,"~/IGP-May31/Jenkinsfile"
+-'  13  84  ~/IGP-May31/Jenkinsfile
+|4,39,13,84,1750775197,"~/IGP-May31/Jenkinsfile"
+-'  13  84  ~/IGP-May31/Jenkinsfile
+|4,39,13,84,1750775197,"~/IGP-May31/Jenkinsfile"
+-'  13  84  ~/IGP-May31/Jenkinsfile
+|4,39,13,84,1750775197,"~/IGP-May31/Jenkinsfile"
+-'  13  84  ~/IGP-May31/Jenkinsfile
+|4,39,13,84,1750775197,"~/IGP-May31/Jenkinsfile"
+-'  13  84  ~/IGP-May31/Jenkinsfile
+|4,39,13,84,1750775197,"~/IGP-May31/Jenkinsfile"
 -'  13  84  ~/IGP-May31/Jenkinsfile
 |4,39,13,84,1750775197,"~/IGP-May31/Jenkinsfile"
 -'  13  84  ~/IGP-May31/Jenkinsfile
@@ -101,160 +203,65 @@
 |4,39,23,15,1750774872,"~/IGP-May31/Jenkinsfile"
 -'  23  15  ~/IGP-May31/Jenkinsfile
 |4,39,23,15,1750774872,"~/IGP-May31/Jenkinsfile"
+-'  23  15  ~/IGP-May31/Jenkinsfile
+|4,39,23,15,1750774872,"~/IGP-May31/Jenkinsfile"
+-'  23  15  ~/IGP-May31/Jenkinsfile
+|4,39,23,15,1750774872,"~/IGP-May31/Jenkinsfile"
+-'  23  15  ~/IGP-May31/Jenkinsfile
+|4,39,23,15,1750774872,"~/IGP-May31/Jenkinsfile"
+-'  23  15  ~/IGP-May31/Jenkinsfile
+|4,39,23,15,1750774872,"~/IGP-May31/Jenkinsfile"
+-'  23  15  ~/IGP-May31/Jenkinsfile
+|4,39,23,15,1750774872,"~/IGP-May31/Jenkinsfile"
+-'  23  15  ~/IGP-May31/Jenkinsfile
+|4,39,23,15,1750774872,"~/IGP-May31/Jenkinsfile"
+-'  23  15  ~/IGP-May31/Jenkinsfile
+|4,39,23,15,1750774872,"~/IGP-May31/Jenkinsfile"
+-'  23  15  ~/IGP-May31/Jenkinsfile
+|4,39,23,15,1750774872,"~/IGP-May31/Jenkinsfile"
+-'  23  15  ~/IGP-May31/Jenkinsfile
+|4,39,23,15,1750774872,"~/IGP-May31/Jenkinsfile"
+-'  23  15  ~/IGP-May31/Jenkinsfile
+|4,39,23,15,1750774872,"~/IGP-May31/Jenkinsfile"
+-'  23  15  ~/IGP-May31/Jenkinsfile
+|4,39,23,15,1750774872,"~/IGP-May31/Jenkinsfile"
+-'  23  15  ~/IGP-May31/Jenkinsfile
+|4,39,23,15,1750774872,"~/IGP-May31/Jenkinsfile"
+-'  23  15  ~/IGP-May31/Jenkinsfile
+|4,39,23,15,1750774872,"~/IGP-May31/Jenkinsfile"
+-'  23  15  ~/IGP-May31/Jenkinsfile
+|4,39,23,15,1750774872,"~/IGP-May31/Jenkinsfile"
+-'  23  15  ~/IGP-May31/Jenkinsfile
+|4,39,23,15,1750774872,"~/IGP-May31/Jenkinsfile"
+-'  23  15  ~/IGP-May31/Jenkinsfile
+|4,39,23,15,1750774872,"~/IGP-May31/Jenkinsfile"
+-'  23  15  ~/IGP-May31/Jenkinsfile
+|4,39,23,15,1750774872,"~/IGP-May31/Jenkinsfile"
+-'  23  15  ~/IGP-May31/Jenkinsfile
+|4,39,23,15,1750774872,"~/IGP-May31/Jenkinsfile"
+-'  23  15  ~/IGP-May31/Jenkinsfile
+|4,39,23,15,1750774872,"~/IGP-May31/Jenkinsfile"
+-'  23  15  ~/IGP-May31/Jenkinsfile
+|4,39,23,15,1750774872,"~/IGP-May31/Jenkinsfile"
+-'  23  15  ~/IGP-May31/Jenkinsfile
+|4,39,23,15,1750774872,"~/IGP-May31/Jenkinsfile"
+-'  23  15  ~/IGP-May31/Jenkinsfile
+|4,39,23,15,1750774872,"~/IGP-May31/Jenkinsfile"
+-'  23  15  ~/IGP-May31/Jenkinsfile
+|4,39,23,15,1750774872,"~/IGP-May31/Jenkinsfile"
+-'  23  15  ~/IGP-May31/Jenkinsfile
+|4,39,23,15,1750774872,"~/IGP-May31/Jenkinsfile"
 -'  1  0  ~/Jenkinsfile
 |4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774863,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  1  0  ~/Jenkinsfile
-|4,39,1,0,1750774820,"~/Jenkinsfile"
--'  22  15  ~/IGP-May31/Jenkinsfile
-|4,39,22,15,1750772599,"~/IGP-May31/Jenkinsfile"
--'  22  15  ~/IGP-May31/Jenkinsfile
-|4,39,22,15,1750772599,"~/IGP-May31/Jenkinsfile"
--'  22  15  ~/IGP-May31/Jenkinsfile
-|4,39,22,15,1750772599,"~/IGP-May31/Jenkinsfile"
--'  22  15  ~/IGP-May31/Jenkinsfile
-|4,39,22,15,1750772599,"~/IGP-May31/Jenkinsfile"
--'  22  15  ~/IGP-May31/Jenkinsfile
-|4,39,22,15,1750772599,"~/IGP-May31/Jenkinsfile"
--'  22  15  ~/IGP-May31/Jenkinsfile
-|4,39,22,15,1750772599,"~/IGP-May31/Jenkinsfile"
--'  22  15  ~/IGP-May31/Jenkinsfile
-|4,39,22,15,1750772599,"~/IGP-May31/Jenkinsfile"
--'  22  15  ~/IGP-May31/Jenkinsfile
-|4,39,22,15,1750772599,"~/IGP-May31/Jenkinsfile"
--'  22  15  ~/IGP-May31/Jenkinsfile
-|4,39,22,15,1750772599,"~/IGP-May31/Jenkinsfile"
--'  22  15  ~/IGP-May31/Jenkinsfile
-|4,39,22,15,1750772599,"~/IGP-May31/Jenkinsfile"
--'  22  15  ~/IGP-May31/Jenkinsfile
-|4,39,22,15,1750772599,"~/IGP-May31/Jenkinsfile"
--'  22  15  ~/IGP-May31/Jenkinsfile
-|4,39,22,15,1750772599,"~/IGP-May31/Jenkinsfile"
 
 # History of marks within files (newest to oldest):
+
+> ~/IGP-May31/dockerfile
+	*	1750906892	0
+	"	2	57
+	^	2	58
+	.	2	57
+	+	2	57
 
 > /etc/profile.d/maven.sh
 	*	1750781500	0
