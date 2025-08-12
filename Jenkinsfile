@@ -10,7 +10,7 @@ pipeline {
         stage('clone') {
             steps {
                 // Get some code from a GitHub repository
-                git branch: 'main', url: 'https://github.com/ramesharpu/ABC-Technologies.git'
+                git branch: 'main', url: 'https://github.com/Bile-git/IGP-may31.git'
             }
         }
         stage('compile'){
